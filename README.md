@@ -113,7 +113,7 @@
 ## 🏆 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onkarshinde77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=6" alt="GitHub Trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=onkarshinde77&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
 <div align="center">
@@ -140,7 +140,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarshinde77&theme=tokyo-night&area=true&hide_border=true" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarshinde77&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
