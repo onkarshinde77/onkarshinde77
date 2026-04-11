@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Prathamesh%20Barbole&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Onkar%20Shinde&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20" width="100%" alt="Header Banner" />
 </div>
 
 <h1 align="center">Yo! I'm Onkar 😎</h1>
