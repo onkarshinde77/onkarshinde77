@@ -1,13 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Onkar%20Shinde&fontSize=72&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Builder%20%7C%20Founder&descAlignY=58&descSize=22" width="100%" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%91%8B+Hi%2C+I'm+Onkar+Shinde;%F0%9F%A4%96+AI+Engineer;B.E+in+AI+%26+Data+Science;Building+Intelligent+Systems+with+LLMs;RAG+Pipelines+%7C+AI+Agents+%7C+Automation;Think.+Build.+Deploy.+Repeat." alt="Typing Animation" />
 </div>
-
-<h1 align="center">Hey, I'm Onkar 🤖</h1>
-<h3 align="center">AI Engineer · RAG Systems · Automation · Full-Stack</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=B.E+in+AI+%26+Data+Science;Building+Intelligent+Systems+with+LLMs;RAG+Pipelines+%7C+AI+Agents+%7C+Automation;Founder+of+Heropixel+Network;Think.+Build.+Deploy.+Repeat." />
-</p>
 
 <p align="center">
   <a href="https://github.com/onkarshinde77">
@@ -26,14 +19,13 @@
         <li>🎓 Pursuing <b>B.E in Artificial Intelligence & Data Science</b></li>
         <li>🤖 Building <b>LLM-powered apps, RAG systems & AI Agents</b></li>
         <li>🔗 Working with <b>LangChain, LlamaIndex, OpenAI, Anthropic APIs</b></li>
-        <li>🚀 Founder of <b>Heropixel Network</b></li>
-        <li>🌐 Shipping full-stack AI products end-to-end</li>
+        <li>🌐 Shipping AI products end-to-end</li>
         <li>⚡ Obsessed with automation, retrieval systems & AI orchestration</li>
         <li>📖 Documenting learnings on <a href="https://medium.com/@onkarshinde77">Medium</a></li>
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="Coding GIF" style="border-radius: 15px;"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR5NXdqMzdrNXZnZ3N3eHYybXA0NmRvM3pwbHc1ZDJwZzA4NnVyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YS57N6teaevJASvcMA/giphy.gif" width="100%" alt="Coding GIF" style="border-radius: 15px;"/>
     </td>
   </tr>
 </table>
@@ -147,10 +139,14 @@
 
 <table align="center" border="0" style="border: none;">
   <tr>
-    <td width="50%" align="center" style="border: none;">
-      <h2>🛰️ Live Status</h2>
-      <img src="https://lanyard.cnrad.dev/api/794211471516893204?theme=dark&borderRadius=12px&idleMessage=Building%20something%20cool...&bg=1a1b26" height="160"/>
-    </td>
+<td width="50%" align="center" style="border: none;">
+  <h2>📡 Live Activity</h2>
+  
+  <picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=36BCF7&multiline=true&width=480&height=160&lines=%E2%96%B6+onkar%40dev%3A~%24+_;%5BCODE%5D+Opened+VSCode+%E2%86%92+rag-pipeline%2Fretriever.py;%5BGIT%5D++git+commit+-m+%22fix%3A+chunk+overlap+in+RAG%22;%5BAI%5D+++Querying+Claude+API+%C2%B7+latency%3A+340ms;%5BCODE%5D+Running+pytest+%C2%B7+14+passed+%C2%B7+0+failed;%5BGIT%5D++git+push+origin+main+%C2%B7+%2B87+-12;%5BAI%5D+++Flowise+triggered+%C2%B7+nodes%3A+6+%C2%B7+OK;%5BCODE%5D+FastAPI+reloaded+%C2%B7+endpoint%3A+%2Fapi%2Fchat;%5BGIT%5D++git+commit+-m+%22feat%3A+streaming+response%22;%5BAI%5D+++Ollama+%C2%B7+llama3+loaded+%C2%B7+model%3A+8B" alt="Live Activity Terminal" style="border-radius:12px;" />
+  </picture>
+
+</td>
     <td width="50%" align="center" style="border: none;">
       <h2>🌐 Let's Connect</h2>
       <a href="mailto:onkarshinde.ai@gmail.com">
